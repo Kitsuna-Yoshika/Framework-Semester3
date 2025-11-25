@@ -73,7 +73,7 @@ Aplikasi web berbasis Laravel 12 untuk mengelola perpustakaan kampus: katalog bu
    DB_PORT=3306
    DB_DATABASE=perpus
    DB_USERNAME=root
-   DB_PASSWORD=your_password
+   DB_PASSWORD=
    ```
 
 4. **Generate application key**
