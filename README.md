@@ -170,4 +170,4 @@ Nim dan Email untuk pengujian User  : U.111.11.1111 , officialuser@gmail.com , p
 - **Password lupa**: buat akun baru atau reset langsung melalui database (update kolom `password` dengan `bcrypt('password-baru')`).
 
 ## Checking Function In Website Using Inspect
- - **Press F12 Select Console Scroll to bottom.
+ - Press F12 Select Console Scroll to bottom.
