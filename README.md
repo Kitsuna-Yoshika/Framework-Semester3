@@ -134,7 +134,7 @@ npm run dev
 
 |Nim, Email,& Password login untuk pengujian Admin dan user      |
 ------------------------------------------------------------------
-| Role  | NIM             |        Email             | Password* |
+| Role  | NIM             |        Email             | Password  |
 |-------|-----------------|--------------------------|-----------|
 | Admin | A.111.11.1111   | officialadmin@gmail.com  | 12345678  |
 | User  | U.111.11.1111   | officialuser@gmail.com   | 12345678  |
@@ -169,4 +169,5 @@ Nim dan Email untuk pengujian User  : U.111.11.1111 , officialuser@gmail.com , p
 - **Aset tidak termuat**: jalankan `npm run dev` atau `npm run build`, lalu reload.
 - **Password lupa**: buat akun baru atau reset langsung melalui database (update kolom `password` dengan `bcrypt('password-baru')`).
 
-Silakan sesuaikan README ini jika arsitektur atau proses deployment berubah. Semoga membantu!
+## Checking Function In Website Using Inspect
+ - **Press F12 Select Console Scroll to bottom.
