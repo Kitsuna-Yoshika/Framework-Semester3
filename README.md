@@ -132,10 +132,13 @@ npm run dev
 
 ### Akun contoh (jika impor `perpus.sql`)
 
-| Role  | NIM             | Email           | Password* |
-|-------|-----------------|-----------------|-----------|
-| Admin | A.001.01.0001   | admin@mail.com  | password  |
-| User  | U.001.01.0001   | user@mail.com   | password  |
+|Nim, Email,& Password login untuk pengujian Admin dan user      |
+------------------------------------------------------------------
+| Role  | NIM             |        Email             | Password* |
+|-------|-----------------|--------------------------|-----------|
+| Admin | A.111.11.1111   | officialadmin@gmail.com  | 12345678  |
+| User  | U.111.11.1111   | officialuser@gmail.com   | 12345678  |
+
 Nim dan Email untuk pengujian Admin : A.111.11.1111 , officialadmin@gmail.com , password : 12345678 
 Nim dan Email untuk pengujian User  : U.111.11.1111 , officialuser@gmail.com , password : 12345678
 
